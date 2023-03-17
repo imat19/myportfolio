@@ -31,7 +31,7 @@ function NavBar() {
     </button>
     <a class="navbar-brand" href="#"><img className="img-fluid" src="./images/blacklogo.png" alt=""  width={50}/></a>
     <div class="collapse navbar-collapse fw-bold" id="navbarTogglerDemo03">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0 fs-5">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 fs-5 text-center">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#home">Home</a>
         </li>
@@ -45,9 +45,9 @@ function NavBar() {
           <a class="nav-link" href="#contact">Contact</a>
         </li>
       </ul>
-      
-        <span className="rounded-pill border border-2 border-dark p-2 ">Download CV</span>
-     
+      <div className="text-center">
+        <span className="rounded-pill border border-2 border-dark p-2  fs-6 text-center">Download CV</span>
+        </div>
     </div>
   </div>
 
