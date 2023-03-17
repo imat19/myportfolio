@@ -2,7 +2,7 @@ function Projects() {
   return (
     <div className="container-fluid bg-light">
     <div className="container-lg px-0 py-5">
-        <h1 className="display-2 fw-bold mb-3"id="projects">Projects</h1>
+        <h1 className="display-2 fw-bold mb-3 text-center"id="projects">Projects</h1>
       <div className="row g-3">
         <div className="col-6 col-12 col-md-6">
           <div className="card shadow home-bg">
