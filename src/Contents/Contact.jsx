@@ -4,7 +4,7 @@ function Contact(){
     <div className="row">
       <div className="col-md-6">
         <h1 className="border-start border-5 border-dark ps-4" id="contact"> Contact Me</h1>
-        
+        <img className="img-fluid" src="./images/contactme.png" alt="" />
 
       </div>
       <div className="col-md-6 mb-3">
