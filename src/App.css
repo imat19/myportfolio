@@ -11,3 +11,9 @@
   -webkit-backdrop-filter: blur(8px);
   border-radius: 10px;
 }
+
+.card-title{
+  text-align: center;
+  font-size: 1.5em;
+  font-weight:bold;
+}

@@ -6,6 +6,7 @@ function Home() {
       <div className="row d-flex align-items-center" id="home">
         <div className="col-md-6 col-12 mb-4">
           <div className="text-center">
+            
             <h1 className="display-3 fw-bold">Hi, <span className="align-text-bottom"> <img className="img-fluid" src="./images/wave.gif" alt="" width={90} /></span>
               <br />
               I'm Raymart Vergara</h1>
