@@ -61,8 +61,8 @@ function Projects() {
                 <h5 className="card-title">Kimi no Nawa</h5>
                 <div className="row">
                   <div className="col my-2 text-center">
-                    <i href="https://github.com/imat19/raymart" rel="noreferrer" target="_blank" className="btn btn-dark mx-3">Github</i>
-                    <i href="https://raymart.vercel.app/" rel="noreferrer" target="_blank" className="btn btn-white border mx-3">Live Link</i>
+                    <a href="https://github.com/imat19/raymart" rel="noreferrer" target="_blank" className="btn btn-dark mx-3">Github</a>
+                    <a href="https://raymart.vercel.app/" rel="noreferrer" target="_blank" className="btn btn-white border mx-3">Live Link</a>
                   </div>
                 </div>
                 <div className="row">
