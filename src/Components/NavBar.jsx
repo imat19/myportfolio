@@ -24,7 +24,7 @@ function NavBar() {
               </li>
             </ul>
             <div className="text-center">
-              <button className="btn  border border-2 border-dark p-2  fs-6 text-center"  target="_blank"><a className="text-decoration-none text-dark" href="./images/Raymart Vergara.pdf" target="_blank" download>Download CV</a> </button>
+              <button className="btn  border border-2 border-dark p-2  fs-6 text-center"  target="_blank"><a className="text-decoration-none text-dark" href="./images/Raymart Vergara.pdf" target="_blank" >Download CV</a> </button>
             </div>
           </div>
         </div>
