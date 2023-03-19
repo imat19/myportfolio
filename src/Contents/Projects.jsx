@@ -12,7 +12,7 @@ function Projects() {
                 <p className="card-text">A real estate website is an online platform that allows users to search for, view, and interact with real estate listings and related information. These websites typically include a database of properties for sale or rent, as well as tools and resources for buyers, sellers, and real estate professionals.</p>
                 <div className="row">
                   <div className="col my-2 text-center">
-                    <a href="#" className="btn btn-dark mx-3" rel="noreferrer" target="_blank">Github</a>
+                    <a href="https://github.com/ricesush/dream-fields" className="btn btn-dark mx-3" rel="noreferrer" target="_blank">Github</a>
                     <a href="#" className="btn btn-white border mx-3" rel="noreferrer" target="_blank">Live Link</a>
                   </div>
                 </div>
