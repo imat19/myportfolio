@@ -37,7 +37,7 @@ function Projects() {
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                 <div className="row">
                   <div className="col my-2 text-center">
-                    <a href="#" className="btn btn-dark mx-3" rel="noreferrer" target="_blank">Github</a>
+                    <a href="https://github.com/WD29Group/resortvillas" className="btn btn-dark mx-3" rel="noreferrer" target="_blank">Github</a>
                     <a href="https://resortvillas.vercel.app/" rel="noreferrer" target="_blank"  className="btn btn-white border mx-3">Live Link</a>
                   </div>
                 </div>
@@ -61,8 +61,8 @@ function Projects() {
                 <h5 className="card-title">Kimi no Nawa</h5>
                 <div className="row">
                   <div className="col my-2 text-center">
-                    <i href="" rel="noreferrer" target="_blank" className="btn btn-dark mx-3">Github</i>
-                    <i href="" rel="noreferrer" target="_blank" className="btn btn-white border mx-3">Live Link</i>
+                    <i href="https://github.com/imat19/raymart" rel="noreferrer" target="_blank" className="btn btn-dark mx-3">Github</i>
+                    <i href="https://raymart.vercel.app/" rel="noreferrer" target="_blank" className="btn btn-white border mx-3">Live Link</i>
                   </div>
                 </div>
                 <div className="row">
@@ -84,7 +84,7 @@ function Projects() {
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                 <div className="row">
                   <div className="col my-2 text-center">
-                    <button className="btn btn-dark mx-3">Github</button>
+                    <a href="https://github.com/imat19/myportfolio" rel="noreferrer" target="_blank" className="btn btn-dark mx-3">Github</a>
                     <a href="https://myportfolio-chi-gold.vercel.app/" rel="noreferrer" target="_blank"  className="btn btn-white border mx-3">Live Link</a>
                   </div>
                 </div>
