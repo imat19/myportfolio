@@ -4,7 +4,7 @@ function Projects() {
       <div className="container-lg pb-5">
         <h1 className="display-2 fw-bold mb-3 text-center" id="projects">Projects</h1>
         <div className="row row-cols-1 row-cols-md-2 g-4">
-          <div className="col h-100">
+          <div className="col h-100" data-aos="fade-up-right">
             <div className="card h-100 m-0 p-0">
               <img className="img-fluid" src="./images/capstone.jpg" alt="" />
               <div className="card-body">
@@ -30,7 +30,7 @@ function Projects() {
             </div>
           </div>
           <div className="col">
-            <div className="card h-100 m-0 p-0">
+            <div className="card h-100 m-0 p-0" data-aos="fade-up-left">
               <img className="img-fluid" src="./images/mini-project2.jpg" alt="" />
               <div className="card-body">
                 <h5 className="card-title">Resort Villas</h5>
@@ -55,7 +55,7 @@ function Projects() {
             </div>
           </div>
           <div className="col">
-            <div className="card h-100 m-0 p-0">
+            <div className="card h-100 m-0 p-0" data-aos="fade-up-right">
               <img className="img-fluid" src="./images/mini-project1.jpg" alt="" />
               <div className="card-body">
                 <h5 className="card-title">Kimi no Nawa</h5>
@@ -77,7 +77,7 @@ function Projects() {
             </div>
           </div>
           <div className="col">
-            <div className="card h-100 m-0 p-0">
+            <div className="card h-100 m-0 p-0" data-aos="fade-up-left">
               <img className="img-fluid" src="./images/portfolio1.jpg" alt="" />
               <div className="card-body">
                 <h5 className="card-title">My Portfolio</h5>

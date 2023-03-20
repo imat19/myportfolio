@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <div className="container-lg pt-5 ps-0">
+    <div className="container-lg pt-5">
       <div className="row">
         <h1 className="display-2 fw-bold mb-3 text-center" id="contact"> Contact Me</h1>
         <div className="col-md-6 mb-3">
@@ -29,7 +29,7 @@ function Contact() {
         <div className="col-md-5 text-center">
           <img className="img-fluid" src="./images/messageme.png" alt="" width={250} />
         </div>
-        <div className="col-md-5 mb-3">
+        <div className="col-md-6 mb-3">
           <h1 className="fw-semibold fs-1" id="message"> Leave a Message</h1>
           <form id="" action="https://formspree.io/f/xdovzbrg" method="POST">
             <label htmlFor="email" className="form-label">Email address <span className="text-danger">*</span></label>
